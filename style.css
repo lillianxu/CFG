@@ -303,3 +303,8 @@ margin-left: 80x;
     margin-top: 50px;
     margin-right: -20px;
 }
+
+
+input:invalid:focus{
+    outline: 2px solid #ff1d51 ;
+}
